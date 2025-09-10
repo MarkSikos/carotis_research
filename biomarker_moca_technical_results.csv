@@ -1,0 +1,4 @@
+Metric,Metric_Type,Test_Type,p_value,Effect_Size,Significance,Good_MOCA_N,Good_MOCA_Mean,Good_MOCA_Std,Good_MOCA_Median,Bad_MOCA_N,Bad_MOCA_Mean,Bad_MOCA_Std,Bad_MOCA_Median,Normality_Assumption,Additional_Info,Mean_Difference,Median_Difference
+ActualFS,technical,Mann-Whitney U,0.015158092427221204,0.10609299749879385,*,456,1.0504699576524825,0.6053875645709746,0.858620689655172,68,1.3147840860405,1.0583762420402734,0.918819188191882,False,"Good normal: False, Bad normal: False",-0.2643141283880175,-0.06019849853671
+DataQuality,technical,t-test,,0.0,ns,456,1.0,0.0,1.0,68,1.0,0.0,1.0,True,"Good normal: True, Bad normal: True",0.0,0.0
+SignalLength,technical,Mann-Whitney U,0.5801062844513667,0.02416794194336437,ns,456,250.0,40.869666873240725,250.0,68,247.05882352941177,40.41053592221505,250.0,False,"Good normal: False, Bad normal: False",2.941176470588232,0.0
