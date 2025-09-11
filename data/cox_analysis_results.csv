@@ -1,0 +1,14 @@
+Identifier,DeltaMOCA1,Diabetes,COx_SingleHemisphere_Endothelial,COx_SingleHemisphere_VLF,COx_SingleHemisphere_Endothelial_Category,COx_SingleHemisphere_VLF_Category,Diabetes_numeric
+303,1,0,,,Missing,Missing,0.0
+309,0,0,0.595724730052824,0.511131897890354,Severely impaired,Severely impaired,0.0
+310,1,0,0.598331482340048,0.606518689950809,Severely impaired,Severely impaired,0.0
+311,2,0,0.186168384973613,0.330237184758611,Good autoregulation,Impaired autoregulation,0.0
+312,1,0,-0.258035103438401,-0.366453116547923,Good autoregulation,Good autoregulation,0.0
+314,1, ,,,Missing,Missing,
+322,1, ,0.0341639080621185,0.07991729996359,Good autoregulation,Good autoregulation,
+327,1,1,,,Missing,Missing,1.0
+329,2,0,,,Missing,Missing,0.0
+333,1, ,,,Missing,Missing,
+334,1, ,,,Missing,Missing,
+335,1,0,,,Missing,Missing,0.0
+336,1,0,,,Missing,Missing,0.0

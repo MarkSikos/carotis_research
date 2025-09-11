@@ -1,0 +1,13 @@
+COx_Type,Threshold,High_N,High_Decline_N,High_Rate,Low_N,Low_Decline_N,Low_Rate
+Endothelial,0.25,25,0,0.0,32,0,0.0
+Endothelial,0.3,22,0,0.0,35,0,0.0
+Endothelial,0.35,20,0,0.0,37,0,0.0
+Endothelial,0.4,19,0,0.0,38,0,0.0
+Endothelial,0.45,17,0,0.0,40,0,0.0
+Endothelial,0.5,14,0,0.0,43,0,0.0
+VLF,0.25,32,0,0.0,25,0,0.0
+VLF,0.3,29,0,0.0,28,0,0.0
+VLF,0.35,23,0,0.0,34,0,0.0
+VLF,0.4,22,0,0.0,35,0,0.0
+VLF,0.45,21,0,0.0,36,0,0.0
+VLF,0.5,15,0,0.0,42,0,0.0
